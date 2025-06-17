@@ -70,4 +70,4 @@ Place `movies_metadata.csv` in the `data/` folder or adjust the path.
 4️⃣ Run the notebook cells and explore the visualizations!
 
 
-📂 Dataset Source: [The Movies Dataset on Kaggle](https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset)
+📂 Dataset Source: [The Movies Dataset on Kaggle](https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset?select=movies_metadata.csv)
