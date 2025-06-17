@@ -48,18 +48,18 @@ The project focuses on:
 ---
 
 ## 📂 **Repository Structure**
+
 movie-metadata-analysis/
 ├── data/
-│   └── movies_metadata.csv        # Dataset file (or instructions to download)
+│   └── movies_metadata.csv        
 ├── notebooks/
-│   └── Movie_Metadata_EDA.ipynb   # Main analysis notebook
-├── README.md                      # Project overview
-└── LICENSE                        # (Optional) License fil
+│   └── Movie_Metadata_EDA.ipynb  
+├── README.md                     
 
 
 ## ⚡ **How to Run**
-1️⃣ Clone the repository:
-    git clone https://github.com/your-username/movie-metadata-analysis.git
+
+1️⃣ Clone the repository: git clone https://github.com/your-username/movie-metadata-analysis.git
 2️⃣ Open the notebook (Movie_Metadata_EDA.ipynb) in Google Colab or Jupyter.
 3️⃣ Upload or link the dataset CSV file if not provided.
 4️⃣ Run the cells in order and explore the visualizations!
